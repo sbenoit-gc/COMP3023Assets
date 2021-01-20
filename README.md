@@ -1,4 +1,4 @@
-# Project Name  MDEV1003
+# Project Name  COMP3023Assets
 <img src="GCLogo.png" width="320"  align="right" />
 ## Descripton
 
