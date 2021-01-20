@@ -1,5 +1,5 @@
 # Project Name  MDEV1003
-<img src="COMP3023Assets/GCLogo.png" width="320"  align="right" />
+<img src="GCLogo.png" width="320"  align="right" />
 ## Descripton
 
 A github repository for COMP3023 in Winter 20221.
